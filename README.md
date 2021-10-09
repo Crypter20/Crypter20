@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crypter20
+- 👋 Hi, I’m @Crypter
 - 👀 I’m interested in SDE
 - 🌱 I’m currently learning Javascript and doing competitive programming
 - 💞️ I’m looking to collaborate on any project related to frontend, backend or full stack development
